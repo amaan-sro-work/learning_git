@@ -1,1 +1,2 @@
+conflict hello 1
 conflict hello 2
